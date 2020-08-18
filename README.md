@@ -9,6 +9,10 @@
 
 ### ✨ [Demo](http://34.222.84.229:8501)
 
+### ScreenShot
+
+![alt text](https://github.com/swarathesh/COVID_CSGAN_WEBAPP/blob/master/screenshots/covi18.png?raw=true)
+
 ## Install
 
 ```sh
